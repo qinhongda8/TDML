@@ -1,2 +1,3 @@
-# TDML
-TokenMix Teacher for Domain Adaptive Detection Transformer in Autonomous Vehicles
+## Upcoming Release
+
+We will soon release the code and pretrained models. Please check back later for updates
